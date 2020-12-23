@@ -1,4 +1,4 @@
-# Activelearning
+# Activelearning(Python)
 Getting unlabelled data has been a very simple thing these days. But, it is indeed a very difficult task to acquire labeled data.
 Active learning is such a framework that comes to the rescue when you have limited data and yet you require a better model accuracy.
 Querying intelligently to identify the most informative instances is the underlying principle of active learning.
